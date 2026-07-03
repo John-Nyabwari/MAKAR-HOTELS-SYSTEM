@@ -1,3 +1,5 @@
+<img width="1866" height="958" alt="image" src="https://github.com/user-attachments/assets/249ccc68-7e7e-441b-99e5-43c7cb3d6031" />
+
 # MAKAR HOTELS SYSTEM
 
 A comprehensive hotel management and guest portal system for Makar Hotel in Nairobi, featuring luxury accommodations, virtual waiter dining, and an admin management console.
